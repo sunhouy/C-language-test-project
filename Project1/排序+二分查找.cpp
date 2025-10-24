@@ -19,7 +19,7 @@ int main() {
 				min = j;
 			if (min != i) {
 				temp = score[i];
-				score[i] = score[min];	
+				score[i] = score[min];
 				score[min] = temp;	
 			}
 		}
