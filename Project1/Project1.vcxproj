@@ -123,8 +123,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="FileName.cpp" />
-    <ClCompile Include="FileName111.cpp" />
+    <ClCompile Include="Fibonacci数列.cpp" />
+    <ClCompile Include="数组.cpp" />
+    <ClCompile Include="判断是否是素数.cpp" />
+    <ClCompile Include="输出星号.cpp" />
     <ClCompile Include="排序+二分查找.cpp" />
     <ClCompile Include="白浅买鸡.cpp" />
     <ClCompile Include="逆序输出.cpp" />

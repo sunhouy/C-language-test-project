@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FileName.cpp">
+    <ClCompile Include="判断是否是素数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="FileName111.cpp">
+    <ClCompile Include="输出星号.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="顺序查找.cpp">
@@ -31,6 +31,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="白浅买鸡.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Fibonacci数列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#define NUM 1000
+#define NUM 100
 
-int shunxu() {
-	int score[NUM];
+int shunxu(){
+	int score[NUM] = {};
 	int i;
 
 	srand(time(0));
